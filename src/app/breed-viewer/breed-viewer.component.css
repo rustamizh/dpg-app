@@ -1,0 +1,8 @@
+.breed-viewer {
+    width: 400px;
+    height: 300px;
+    margin: 30px auto 0;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
